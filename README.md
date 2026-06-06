@@ -3,8 +3,6 @@ This is a small device to supply 3V plugin power to microphone.
 
 <img src="https://i.imgur.com/febOV8Y.jpeg" alt="Top View" width="50%" />
 
-*3V Plugin Power Supplier*
-
 ## 🔧 How to Use
 
 Order your PCB to PCB manufacturer such as JLCPCB to get your own. Use `production/gerbers.zip` to order.
