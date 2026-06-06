@@ -6,7 +6,9 @@ This is a small device to supply 3V plugin power to microphone.
 
 ## How to Use
 
-Order your PCB to PCB manufacturer such as JLCPCB to get your own.
+Order your PCB to PCB manufacturer such as JLCPCB to get your own. Use `production/gerbers.zip` to order.
+
+After you receive the PCB, solder components on it. Then you can use it by inserting a CR2030 battery and plugging it into microphone.
 
 ## Components
 
