@@ -18,7 +18,7 @@ This device requires following components for you to make:
 | Component | Quantity |
 | --- | --- |
 | 2.2kΩ Resistor | 2 |
-| 10µF Electrolytic Capasitor | 2 |
+| 100µF Electrolytic Capasitor | 2 |
 | 3.5mm TRS Jack (Be careful for pin arrangement) | 2 |
 | Slide Switch | 1 |
 | CR2030 Battery Holder | 1 |
