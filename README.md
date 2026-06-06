@@ -5,7 +5,8 @@ This is a small device to supply 3V plugin power to microphone.
 
 ## 🎥 Demo
 
-[!(Watch the Demo on YouTube)(https://www.youtube.com/watch?v=aCJ3Ztfm0Tg)](https://youtu.be/aCJ3Ztfm0Tg)
+You can watch the demo video on YouTube!
+[!(Watch the Demo on YouTube)(https://img.youtube.com/vi/aCJ3Ztfm0Tg/sddefault.jpg)](https://youtu.be/aCJ3Ztfm0Tg)
 
 ## 🔧 How to Use
 
