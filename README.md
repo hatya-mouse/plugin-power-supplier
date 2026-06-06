@@ -29,8 +29,8 @@ This device requires following components for you to make:
 | 100µF Electrolytic Capasitor | 2 |
 | 3.5mm TRS Jack (Be careful for pin arrangement) | 2 |
 | Slide Switch | 1 |
-| CR2030 Battery Holder | 1 |
-| CR2030 Coin Battery | 1 |
+| CR2032 Battery Holder | 1 |
+| CR2032 Coin Battery | 1 |
 
 See PCB layout in KiCad for more details.
 
