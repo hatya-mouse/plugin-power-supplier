@@ -1,10 +1,10 @@
-# 3V Plugin Power Supplier
+# 🔋 3V Plugin Power Supplier
 This is a small device to supply 3V plugin power to microphone.
 
 ![Top View](https://i.imgur.com/febOV8Y.jpeg)
 *3V Plugin Power Supplier*
 
-## How to Use
+## 🔧 How to Use
 
 Order your PCB to PCB manufacturer such as JLCPCB to get your own. Use `production/gerbers.zip` to order.
 
@@ -12,7 +12,7 @@ After you receive the PCB, solder components on it. Then you can use it by inser
 
 J1 is for audio input so it should be connected to the microphone, and J2 is for output.
 
-## Components
+## ⚙️ Components
 
 This device requires following components for you to make:
 
@@ -27,7 +27,7 @@ This device requires following components for you to make:
 
 See PCB layout in KiCad for more details.
 
-## Schematics & Layout
+## 🗺️ Schematics & Layout
 
 ![Schematics](https://i.imgur.com/yI5MMOT.jpeg)
 *Schematics*
@@ -35,7 +35,7 @@ See PCB layout in KiCad for more details.
 ![PCB Layout](https://i.imgur.com/3R18vnd.jpeg)
 *PCB Layout*
 
-## Gallery
+## 🏞️ Gallery
 
 ![Bottom View](https://i.imgur.com/ijVBjGy.jpeg)
 *Bottom*
