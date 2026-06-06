@@ -1,7 +1,7 @@
 # 🔋 3V Plugin Power Supplier
 This is a small device to supply 3V plugin power to microphone.
 
-![Top View](https://i.imgur.com/febOV8Y.jpeg#width=200px)
+![Top View](https://i.imgur.com/febOV8Y.jpeg#width=50%)
 
 ## 🔧 How to Use
 
@@ -28,19 +28,19 @@ See PCB layout in KiCad for more details.
 
 ## 🗺️ Schematics & Layout
 
-![Schematics](https://i.imgur.com/yI5MMOT.jpeg#width=200px)
+![Schematics](https://i.imgur.com/yI5MMOT.jpeg#width=50%)
 *Schematics*
 
-![PCB Layout](https://i.imgur.com/3R18vnd.jpeg#width=200px)
+![PCB Layout](https://i.imgur.com/3R18vnd.jpeg#width=50%)
 *PCB Layout*
 
 ## 🏞️ Gallery
 
-![Top View](https://i.imgur.com/fCOmO33.jpeg#width=200px)
+![Top View](https://i.imgur.com/fCOmO33.jpeg#width=50%)
 *Top*
 
-![Bottom View](https://i.imgur.com/ijVBjGy.jpeg#width=200px)
+![Bottom View](https://i.imgur.com/ijVBjGy.jpeg#width=50%)
 *Bottom*
 
-![Size](https://i.imgur.com/yQpohWz.jpeg#width=200px)
+![Size](https://i.imgur.com/yQpohWz.jpeg#width=50%)
 *Size*
