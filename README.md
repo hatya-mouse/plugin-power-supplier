@@ -26,10 +26,10 @@ This device requires following components for you to make:
 
 See PCB layout in KiCad for more details.
 
-## 🗺️ Schematics & Layout
+## 🗺️ Schematic & Layout
 
-<img src="https://i.imgur.com/yI5MMOT.jpeg" alt="Schematics" width="50%"><br>
-*Schematics*
+<img src="https://i.imgur.com/yI5MMOT.jpeg" alt="Schematic" width="50%"><br>
+*Schematic*
 
 <img src="https://i.imgur.com/3R18vnd.jpeg" alt="PCB Layout" width="50%"><br>
 *PCB Layout*
