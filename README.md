@@ -1,7 +1,7 @@
 # 3V Plugin Power Supplier
 This is a small device to supply 3V plugin power to microphone.
 
-![Top View](https://i.imgur.com/LUjJByg.jpeg)
+![Top View](https://i.imgur.com/febOV8Y.jpeg)
 *3V Plugin Power Supplier*
 
 ## How to Use
@@ -10,17 +10,38 @@ Order your PCB to PCB manufacturer such as JLCPCB to get your own. Use `producti
 
 After you receive the PCB, solder components on it. Then you can use it by inserting a CR2030 battery and plugging it into microphone.
 
+J1 is for audio input so it should be connected to the microphone, and J2 is for output.
+
 ## Components
 
 This device requires following components for you to make:
 
-# Gallery
+| Component | Quantity |
+| --- | --- |
+| 2.2kΩ Resistor | 2 |
+| 10µF Electrolytic Capasitor | 2 |
+| 3.5mm TRS Jack (Be careful for pin arrangement) | 2 |
+| Slide Switch | 1 |
+| CR2030 Battery Holder | 1 |
+| CR2030 Coin Battery | 1 |
 
-![Bottom View](https://i.imgur.com/E4uFMBF.jpeg)
+See PCB layout in KiCad for more details.
+
+## Schematics & Layout
+
+![Schematics](https://i.imgur.com/yI5MMOT.jpeg)
+*Schematics*
+
+![PCB Layout](https://i.imgur.com/3R18vnd.jpeg)
+*PCB Layout*
+
+## Gallery
+
+![Bottom View](https://i.imgur.com/ijVBjGy.jpeg)
 *Bottom*
 
-![Top View](https://i.imgur.com/FxqoIVA.jpeg)
+![Top View](https://i.imgur.com/fCOmO33.jpeg)
 *Top*
 
-![Size](https://i.imgur.com/uPjfWJQ.jpeg)
+![Size](https://i.imgur.com/yQpohWz.jpeg)
 *Size*
