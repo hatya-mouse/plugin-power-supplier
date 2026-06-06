@@ -15,7 +15,7 @@ You can watch the demo video on YouTube!
 
 Order your PCB to PCB manufacturer such as JLCPCB to get your own. Use `production/gerbers.zip` to order.
 
-After you receive the PCB, solder components on it. Then you can use it by inserting a CR2030 battery and plugging it into microphone.
+After you receive the PCB, solder components on it. Then you can use it by inserting a CR2032 battery and plugging it into microphone.
 
 J1 is for audio input so it should be connected to the microphone, and J2 is for output.
 
