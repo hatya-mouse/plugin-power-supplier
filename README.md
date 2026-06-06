@@ -30,30 +30,27 @@ See PCB layout in KiCad for more details.
 
 <figure>
     <img src="https://i.imgur.com/yI5MMOT.jpeg" alt="Schematics" width="50%" />
-    <figcaption>Schematics</figcaption>
+    <figcaption style="margin-top: 4px;">Schematics</figcaption>
 </figure>
-
 
 <figure>
     <img src="https://i.imgur.com/3R18vnd.jpeg" alt="PCB Layout" width="50%" />
-    <figcaption>PCB Layout</figcaption>
+    <figcaption style="margin-top: 4px;">PCB Layout</figcaption>
 </figure>
 
 ## 🏞️ Gallery
 
 <figure>
     <img src="https://i.imgur.com/fCOmO33.jpeg" alt="Top View" width="50%" />
-    <figcaption>Top</figcaption>
+    <figcaption style="margin-top: 4px;">Top</figcaption>
 </figure>
-
 
 <figure>
     <img src="https://i.imgur.com/ijVBjGy.jpeg" alt="Bottom View" width="50%" />
-    <figcaption>Bottom</figcaption>
+    <figcaption style="margin-top: 4px;">Bottom</figcaption>
 </figure>
-
 
 <figure>
     <img src="https://i.imgur.com/yQpohWz.jpeg" alt="Size" width="50%" />
-    <figcaption>Size</figcaption>
+    <figcaption style="margin-top: 4px;">Size</figcaption>
 </figure>
