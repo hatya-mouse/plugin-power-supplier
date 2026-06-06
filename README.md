@@ -28,24 +28,29 @@ See PCB layout in KiCad for more details.
 
 ## 🗺️ Schematics & Layout
 
-<img src="https://i.imgur.com/yI5MMOT.jpeg" alt="Schematics" width="50%" />
+<figure>
+    <img src="https://i.imgur.com/yI5MMOT.jpeg" alt="Schematics" width="50%" />
+    <figcaption>Schematics</figcaption>
+</figure>
 
-*Schematics*
-
-<img src="https://i.imgur.com/3R18vnd.jpeg" alt="PCB Layout" width="50%" />
-
-*PCB Layout*
+<figure>
+    <img src="https://i.imgur.com/3R18vnd.jpeg" alt="PCB Layout" width="50%" />
+    <figcaption>PCB Layout</figcaption>
+</figure>
 
 ## 🏞️ Gallery
 
-<img src="https://i.imgur.com/fCOmO33.jpeg" alt="Top View" width="50%" />
+<figure>
+    <img src="https://i.imgur.com/fCOmO33.jpeg" alt="Top View" width="50%" />
+    <figcaption>Top</figcaption>
+</figure>
 
-*Top*
+<figure>
+    <img src="https://i.imgur.com/ijVBjGy.jpeg" alt="Bottom View" width="50%" />
+    <figcaption>Bottom</figcaption>
+</figure>
 
-<img src="https://i.imgur.com/ijVBjGy.jpeg" alt="Bottom View" width="50%" />
-
-*Bottom*
-
-<img src="https://i.imgur.com/yQpohWz.jpeg" alt="Size" width="50%" />
-
-*Size*
+<figure>
+    <img src="https://i.imgur.com/yQpohWz.jpeg" alt="Size" width="50%" />
+    <figcaption>Size</figcaption>
+</figure>
