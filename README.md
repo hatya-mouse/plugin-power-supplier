@@ -28,29 +28,29 @@ See PCB layout in KiCad for more details.
 
 ## 🗺️ Schematics & Layout
 
-<p align="center">
+<p>
     <img src="https://i.imgur.com/yI5MMOT.jpeg" alt="Schematics" width="50%" />
     <sub>Schematics</sub>
 </p>
 
-<p align="center">
+<p>
     <img src="https://i.imgur.com/3R18vnd.jpeg" alt="PCB Layout" width="50%" />
     <sub>PCB Layout</sub>
 </p>
 
 ## 🏞️ Gallery
 
-<p align="center">
+<p>
     <img src="https://i.imgur.com/fCOmO33.jpeg" alt="Top View" width="50%" />
     <sub>Top</sub>
 </p>
 
-<p align="center">
+<p>
     <img src="https://i.imgur.com/ijVBjGy.jpeg" alt="Bottom View" width="50%" />
     <sub>Bottom</sub>
 </p>
 
-<p align="center">
+<p>
     <img src="https://i.imgur.com/yQpohWz.jpeg" alt="Size" width="50%" />
     <sub>Size</sub>
 </p>
